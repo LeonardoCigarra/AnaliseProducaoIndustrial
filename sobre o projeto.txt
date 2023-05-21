@@ -1,0 +1,4 @@
+sobre o projeto:
+
+emos um gráfico que representa a Avaliação Industrial de Produção ao longo do tempo e nele, podemos analisar as seguintes métricas-chave representada no dashboard.
+Com essas informações, podemos obter insights valiosos sobre a produtividade, eficiência e qualidade da produção industrial. O gráfico nos permite identificar padrões, tendências e áreas de melhoria, visando otimizar a performance operacional e a satisfação do cliente.
